@@ -16,7 +16,6 @@ def ExecuteOnUnlock():
 """
 
 
-
 # ExecuteOnLock is a function that can be inherrited from 
 def SimpleToggleLockSettings(WidgList, ExecuteOnLock, ExecuteOnUnlock):
     # Toggle button
